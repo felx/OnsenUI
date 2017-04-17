@@ -4,6 +4,7 @@ node_modules
 dist
 .DS_Store
 .idea
+*.iml
 .selenium
 .vscode
 /core/test/unit/coverage
